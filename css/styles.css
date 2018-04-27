@@ -1,0 +1,15 @@
+.heading{
+  background-image: url("../images/assets/backgrounds/landing.jpg");
+  background-position:center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 100px;
+
+}
+#logo{
+padding-left:450px;
+}
+.heading p{
+  text-align: center;
+  color: white;
+}
