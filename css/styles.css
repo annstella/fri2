@@ -12,4 +12,21 @@ padding-left:450px;
 .heading p{
   text-align: center;
   color: white;
+  font-size: 35px;
+  font-stretch: semi-expanded;
+}
+
+#break{
+  background-image: url("../images/assets/foodtop/breakfast.jpg");
+  padding: 70px;
+}
+
+#lunch{
+  background-image: url("../images/assets/foodtop/lunch.jpg");
+  padding: 70px;
+}
+
+#dinner{
+  background-image: url("..images/assets/foodtop/dinner2.jpg");
+  padding: 70px;
 }
