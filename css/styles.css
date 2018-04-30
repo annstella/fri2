@@ -16,7 +16,10 @@ padding-left:450px;
   font-stretch: semi-expanded;
 }
 
-
-h3{
-  background-color: F15A29;
+.fast{
+  padding: 10%;
+  border: 2px;
+}
+p1{
+  font-size: bold;
 }
