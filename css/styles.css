@@ -25,3 +25,13 @@ padding-left:450px;
   padding: 10%;
   border: 2px;
 }
+
+.food{
+  background-image: url("../images/assets/backgrounds/foodsBg.jpg");
+  margin-top: 0%;
+}
+.Food{
+  padding: 10%;
+  margin-top: 0%;
+  text-align: left;
+}
