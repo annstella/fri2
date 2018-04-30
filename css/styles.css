@@ -31,7 +31,14 @@ padding-left:450px;
   margin-top: 0%;
 }
 .Food{
-  padding: 10%;
+  margin: 10%;
   margin-top: 0%;
-  text-align: left;
+  margin-bottom: 0%;
+
+}
+.burger{
+  margin: 10%;
+  background-color: white;
+  margin-top: 0%;
+
 }
