@@ -16,17 +16,14 @@ padding-left:450px;
   font-stretch: semi-expanded;
 }
 
-#break{
-  background-image: url("../images/assets/foodtop/breakfast.jpg");
-  padding: 70px;
+<p>breakfast</p>{
+  background-image: url("../images/assets/backgrounds/breakfast.jpg");
 }
 
-#lunch{
-  background-image: url("../images/assets/foodtop/lunch.jpg");
-  padding: 70px;
+<p>lunch</p>{
+  background-image: url("../images/assets/backgrounds/lunch.jpg");
 }
 
-#dinner{
-  background-image: url("..images/assets/foodtop/dinner2.jpg");
-  padding: 70px;
+<p>dinner</p>{
+  background-image: url("../images/assets/backgrounds/dinner.jpg");
 }
