@@ -16,14 +16,7 @@ padding-left:450px;
   font-stretch: semi-expanded;
 }
 
-<p>breakfast</p>{
-  background-image: url("../images/assets/backgrounds/breakfast.jpg");
-}
 
-<p>lunch</p>{
-  background-image: url("../images/assets/backgrounds/lunch.jpg");
-}
-
-<p>dinner</p>{
-  background-image: url("../images/assets/backgrounds/dinner.jpg");
+h3{
+  background-color: F15A29;
 }
