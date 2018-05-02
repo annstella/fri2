@@ -46,3 +46,8 @@ padding-left:450px;
 .text{
   text-align: center;
 }
+
+.email{
+  background-image: url("../images/assets/backgrounds/subscribe.jpg");
+  text-align: center;
+}
