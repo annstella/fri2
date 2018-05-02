@@ -19,6 +19,8 @@ padding-left:450px;
 .fast{
   padding: 10%;
   border: 2px;
+  box-shadow: 0px,0px,20px,3px;
+  color: #ddd;
 }
 
 .drink{
